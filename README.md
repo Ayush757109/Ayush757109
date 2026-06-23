@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="./profile.jpg" width="180" alt="Ayush Kumar Maurya"/>
+<img src="Ayush2412" width="180" alt="Ayush Kumar Maurya"/>
 
 # Hi 👋, I'm Ayush Kumar Maurya
 
