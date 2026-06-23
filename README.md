@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img width="100%" src="./banner.png" alt="Ayush Kumar Maurya Banner" />
+<img width="100%" src="<img width="1200" height="1600" alt="Ayush2412" src="https://github.com/user-attachments/assets/bef48149-210d-47b2-87c3-b7a96bdb693b" />
+" alt="Ayush Kumar Maurya " />
 
 <br>
 
