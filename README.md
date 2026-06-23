@@ -1,13 +1,8 @@
 
 <div align="center">
-  
 
-<img width="100%" src="<img width="1" height="1600" alt="Ayush2412" src="https://github.com/user-attachments/assets/bef48149-210d-47b2-87c3-b7a96bdb693b" />
-" alt="Ayush Kumar Maurya " />
 
-<br>
-
-<img src="Ayush2412" width="180" alt="Ayush Kumar Maurya"/>
+Ayush Kumar Maurya
 
 # Hi 👋, I'm Ayush Kumar Maurya
 
