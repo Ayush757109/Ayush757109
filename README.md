@@ -1,7 +1,10 @@
 
 <div align="center">
+  <a href="https://profile-readme-generator.com//" target="_blank">
+    <img width="100%" src="./Banner.png" alt="Ayush Maurya  — Full Stack Developer" />
+  </a>
 
-<img width="100%" src="<img width="1200" height="1600" alt="Ayush2412" src="https://github.com/user-attachments/assets/bef48149-210d-47b2-87c3-b7a96bdb693b" />
+<img width="100%" src="<img width="1" height="1600" alt="Ayush2412" src="https://github.com/user-attachments/assets/bef48149-210d-47b2-87c3-b7a96bdb693b" />
 " alt="Ayush Kumar Maurya " />
 
 <br>
