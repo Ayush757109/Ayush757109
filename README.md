@@ -54,7 +54,7 @@ Ayush Kumar Maurya
 
 - 🥇 1st Place – Webathon
 - 🔥 Top 10 among 200+ teams – Web Wizard Hackathon
-- 💯 Solved 100+ DSA Problems
+- 💯 Solved 150+ DSA Problems
 - 🚀 Built Production Grade Full Stack Applications
 - 🤖 Developed AI-Powered SaaS Platforms
 
