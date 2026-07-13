@@ -77,7 +77,7 @@ learning: [System Design, Distributed Systems, Cloud Architecture, Microservices
 <td width="70%">
 
 **Software Engineer Intern — Owl AI**
-Feb 2026 – Mar 2026
+Feb 2026 – April 2026
 
 - Developed scalable full-stack applications using React.js, Next.js, Node.js, and MongoDB
 - Improved platform throughput by **30%** through backend and query optimization
