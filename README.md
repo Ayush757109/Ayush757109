@@ -1,290 +1,209 @@
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:22D3EE&height=200&section=header&text=Ayush%20Kumar%20Maurya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20Applications&descAlignY=55&descSize=18" width="100%"/>
 
-Ayush Kumar Maurya
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;AI+Application+Developer;Turning+Ideas+Into+Scalable+Products" />
 
-# Hi 👋, I'm Ayush Kumar Maurya
+<br>
 
-### Full Stack Software Engineer | React.js • Next.js • Node.js • TypeScript | AI Applications
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;AI+Application+Developer;Open+Source+Enthusiast;100%2B+DSA+Problems+Solved" />
-
-<br><br>
-
-<a href="https://linkedin.com/in/ayush2112">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ayushmaurya2112@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ayush757109">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/ayush2112"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ayushmaurya2112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Ayush757109"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ayush757109&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Ayush757109&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 
 </div>
 
----
+<br>
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 B.Tech Computer Science & Engineering (Artificial Intelligence)
+```yaml
+name: Ayush Kumar Maurya
+role: Full Stack Software Engineer
+education: B.Tech, Computer Science & Engineering (AI)
+current: Software Engineer Intern @ Owl AI
+focus: Building scalable full-stack and AI-powered products
+learning: [System Design, Distributed Systems, Cloud Architecture, Microservices]
+```
 
-💼 Software Engineer Intern @ Owl AI
+- 💼 Software Engineer Intern @ **Owl AI** — previously SDE Intern @ **Bluestock Fintech**
+- ⚡ I build production-grade full stack apps and AI-powered SaaS platforms
+- 🥇 1st Place, Webathon · 🔥 Top 10 of 200+ teams, Web Wizard Hackathon
+- 🧩 150+ DSA problems solved (arrays, trees, graphs, dynamic programming)
+- 🌱 Currently deepening my knowledge of system design and cloud architecture
 
-💼 Former Software Development Engineer Intern @ Bluestock Fintech
+<br>
 
-⚡ Passionate about building scalable Full Stack and AI-powered applications
+## 💻 Tech Stack
 
-🌱 Currently Learning
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- System Design
-- Distributed Systems
-- Cloud Architecture
-- AI Engineering
-- Microservices
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts" /></p>
 
-🏆 Highlights
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" /></p>
 
-- 🥇 1st Place – Webathon
-- 🔥 Top 10 among 200+ teams – Web Wizard Hackathon
-- 💯 Solved 150+ DSA Problems
-- 🚀 Built Production Grade Full Stack Applications
-- 🤖 Developed AI-Powered SaaS Platforms
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 
----
+</td>
+<td valign="top" width="50%">
 
-# 🌐 Connect With Me
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" /></p>
 
-<p align="left">
-<a href="https://linkedin.com/in/ayush2112">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+**Cloud & Deployment**
+<p><img src="https://skillicons.dev/icons?i=vercel,netlify" /></p>
 
-<a href="https://github.com/Ayush757109">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /></p>
 
-<a href="mailto:ayushmaurya2112@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-# 💻 Tech Stack
+## 🏢 Experience
 
-### Languages
+<table>
+<tr>
+<td width="70%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts" />
-</p>
+**Software Engineer Intern — Owl AI**
+Feb 2026 – Mar 2026
 
-### Frontend Development
+- Developed scalable full-stack applications using React.js, Next.js, Node.js, and MongoDB
+- Improved platform throughput by **30%** through backend and query optimization
+- Built secure REST APIs with JWT authentication
+- Maintained **99.9%** uptime across production services in a microservice-based architecture
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
-</p>
+</td>
+<td width="30%" valign="top">
 
-### Backend Development
+`React.js` `Next.js`
+`Node.js` `MongoDB`
+`JWT` `Microservices`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="70%">
 
-### Databases
+**Software Development Engineer Intern — Bluestock Fintech**
+Nov 2025 – Jan 2026
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
-</p>
+- Delivered production-grade fintech features end-to-end
+- Improved application performance and reliability through code-level optimizations
+- Integrated secure financial APIs and worked within an agile development cycle
+- Collaborated closely with engineering leadership to ship on schedule
 
-### Cloud & Deployment
+</td>
+<td width="30%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
+`Fintech APIs`
+`Agile`
+`Code Review`
 
-### Tools
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
+<br>
 
----
+## 🚀 Featured Projects
 
-# 🏢 Professional Experience
+### 🏥 AI Healthcare Consultation System
+**Next.js · TypeScript · Prisma ORM · Neon · Clerk · Vapi · Zod**
 
-## 🚀 Owl AI — Software Engineer Intern
+An AI-powered voice consultation platform with role-based access control and a HIPAA-compliant architecture.
 
-📅 Feb 2026 – Mar 2026
-
-- Developed scalable full-stack applications using React.js, Next.js, Node.js, and MongoDB.
-- Improved platform throughput by 30%.
-- Built secure REST APIs with JWT Authentication.
-- Maintained 99.9% uptime across production services.
-- Worked on distributed microservice-based architecture.
-
----
-
-## 💹 Bluestock Fintech — Software Development Engineer Intern
-
-📅 Nov 2025 – Jan 2026
-
-- Delivered production-grade fintech solutions.
-- Improved application performance and reliability.
-- Worked with secure financial APIs and integrations.
-- Participated in agile development and code reviews.
-- Collaborated with engineering leadership to ship features on schedule.
-
----
-
-# 🚀 Featured Projects
-
-## 🏥 AI Healthcare Consultation System
-
-### Tech Stack
-
-Next.js • TypeScript • Prisma ORM • Neon • Clerk • Vapi • Zod
-
-### Key Features
-
-- AI Voice Consultation
-- HIPAA-Compliant Architecture
-- Role-Based Access Control
-- Appointment Management
-- Secure Authentication
-
-### Impact
-
-- Improved page load speed by 40%
-- Increased patient engagement by 75%
+- ⚡ Improved page load speed by **40%**
+- 📈 Increased patient engagement by **75%**
+- 🔐 Secure authentication and appointment management built in
 
 ---
 
-## 🤖 QuickAI – AI Content & Image Generation Platform
+### 🤖 QuickAI — AI Content & Image Generation Platform
+**React.js · Express.js · PostgreSQL · Gemini AI · Clerk**
 
-### Tech Stack
+A subscription-based SaaS platform for AI content and image generation with cloud media storage.
 
-React.js • Express.js • PostgreSQL • Gemini AI • Clerk
-
-### Key Features
-
-- AI Content Generation
-- AI Image Generation
-- Subscription Billing
-- Secure Authentication
-- Cloud Media Storage
-
-### Impact
-
-- Processed 750+ Daily User Requests
-- Reduced AI Response Time by 35%
-- Maintained 99.9% Service Uptime
+- 🚦 Processed **750+** daily user requests
+- ⚡ Reduced AI response time by **35%**
+- 🟢 Maintained **99.9%** service uptime
 
 ---
 
-## 🎥 Zoom Clone
+### 🎥 Zoom Clone
+**React.js · Node.js · Express.js · MongoDB · WebRTC · Socket.IO**
 
-### Tech Stack
+A real-time video calling app with token-based, secure room authentication.
 
-React.js • Node.js • Express.js • MongoDB • WebRTC • Socket.IO
+- 📉 Reduced connection setup latency by **30%**
+- 🔊 Low-latency, real-time communication via WebRTC + Socket.IO
 
-### Key Features
+<br>
 
-- Real-Time Video Calling
-- Secure Room Authentication
-- Token-Based Access
-- Low-Latency Communication
+## 🏆 Achievements
 
-### Impact
+| Achievement | Details |
+|---|---|
+| 🥇 **1st Place — Webathon** | Built a MERN e-commerce platform with an AI chatbot, outperforming 50+ teams |
+| 🔥 **Top 10 / 200+ Teams — Web Wizard Hackathon** | Built **QuizLab**: AI transcription, summarization, and automated quiz generation |
+| 💯 **150+ DSA Problems Solved** | Focus areas: arrays, trees, graphs, dynamic programming |
 
-- Reduced Connection Setup Latency by 30%
+<br>
 
----
-
-# 🏆 Achievements
-
-🥇 1st Place – Webathon
-
-Developed a MERN-based E-Commerce Platform with an AI Chatbot and outperformed 50+ competing teams.
-
-🔥 Top 10 / 200+ Teams – Web Wizard Hackathon
-
-Built QuizLab with:
-
-- AI Transcription
-- AI Summarization
-- Automated Quiz Generation
-
-💯 Solved 100+ DSA Problems
-
-Focused on:
-
-- Arrays
-- Trees
-- Graphs
-- Dynamic Programming
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush757109&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush757109&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ayush757109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush757109&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush757109&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Ayush757109&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush757109&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<br>
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-✔ Master System Design
+- [ ] Master system design
+- [ ] Contribute to open source
+- [ ] Build scalable AI products
+- [ ] Solve 500+ DSA problems
+- [ ] Join a top product-based company
+- [ ] Grow as a full stack engineer
 
-✔ Contribute to Open Source
-
-✔ Build Scalable AI Products
-
-✔ Solve 500+ DSA Problems
-
-✔ Join a Top Product-Based Company
-
-✔ Grow as a Full Stack Engineer
-
----
+<br>
 
 <div align="center">
 
-### ⭐ Building Scalable Software & AI Products
+### Let's connect and build something great
+
+<a href="https://linkedin.com/in/ayush2112"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ayushmaurya2112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Ayush757109"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 *"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0A66C2&height=100&section=footer" width="100%"/>
 
 </div>
