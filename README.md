@@ -50,7 +50,21 @@ learning: [System Design, Distributed Systems, Cloud Architecture, Microservices
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" /></p>
 
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>**Generative AI**
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`OpenAI API`
+`Gemini API`
+`LangChain`
+`RAG`
+`Vector Databases`
+`AI Agents`
+`Prompt Engineering`
+`LLMs`
+`Vapi AI`
+`Clerk AI Integrations`
 
 </td>
 <td valign="top" width="50%">
