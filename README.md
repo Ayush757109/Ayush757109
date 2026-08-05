@@ -55,17 +55,94 @@ learning: [System Design, Distributed Systems, Cloud Architecture, Microservices
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
+## 🤖 Generative AI & Image Generation
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Llama-0081FB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
+
+</p>
+
+### 🖼️ Image Generation
+
+`DALL·E 3`
+`Stable Diffusion`
+`FLUX`
+`Midjourney`
+`Imagen`
+`Ideogram`
+`Leonardo AI`
+`ComfyUI`
+`Automatic1111`
+
+### 🧠 LLM Frameworks
+
+`LangChain`
+`LangGraph`
+`LlamaIndex`
+`CrewAI`
+`AutoGen`
+`OpenAI Agents SDK`
+`Vercel AI SDK`
+
+### 🤖 AI Agents
+
+`AI Agents`
+`Multi-Agent Systems`
+`Agentic AI`
+`Tool Calling`
+`Function Calling`
+`MCP (Model Context Protocol)`
+
+### 📚 RAG & Vector Databases
+
+`Retrieval-Augmented Generation (RAG)`
+`Embeddings`
+`Semantic Search`
+`Hybrid Search`
+
+`Pinecone`
+`ChromaDB`
+`FAISS`
+`Weaviate`
+`Qdrant`
+`Milvus`
+
+### 🎙️ AI APIs
+
 `OpenAI API`
 `Gemini API`
-`LangChain`
-`RAG`
-`Vector Databases`
-`AI Agents`
-`Prompt Engineering`
-`LLMs`
+`Claude API`
+`Groq API`
+`Hugging Face`
+`Replicate`
+`Together AI`
 `Vapi AI`
-`Clerk AI Integrations`
+`ElevenLabs`
+`AssemblyAI`
 
+### ✨ AI Skills
+
+`Prompt Engineering`
+`Prompt Chaining`
+`Fine-Tuning`
+`Structured Outputs`
+`JSON Mode`
+`Streaming`
+`Vision Models`
+`Multimodal AI`
+`Image Generation`
+`Image Editing`
+`Text-to-Image`
+`Image-to-Image`
+`OCR`
+`Speech-to-Text`
+`Text-to-Speech`
 </td>
 <td valign="top" width="50%">
 
