@@ -2,15 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:22D3EE&height=220&section=header&text=Ayush%20Kumar%20Maurya&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI-Native%20Full-Stack%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=850&lines=Building+Production-Grade+AI+Applications;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Gemini+%7C+Vapi+%7C+RAG+%7C+MCP+%7C+AI+Agents;Scalable+APIs+%7C+Microservices+%7C+Cloud+Architecture" />
-</a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=850&lines=2+Internships+%7C+Fintech+%2B+AI+Healthcare+Domains;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Gemini+LLM+%7C+Vapi+%7C+RAG+%7C+MCP+%7C+Vector+DBs;99.9%25+Uptime+%7C+35%25+Faster+APIs+%7C+1%2C000%2B+Users" /></a>
 
-<br><br>
+<br>
 
 <a href="https://linkedin.com/in/ayush2112"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ayushmaurya2112@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Ayush757109"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 <br><br>
 
@@ -18,229 +17,92 @@
 
 </div>
 
-👋 About Me
+<br>
 
-name: Ayush Kumar Maurya
-role: AI-Native Full-Stack Software Engineer
-education: B.Tech — Computer Science & Engineering (Artificial Intelligence)
-location: Ghaziabad, Uttar Pradesh, India
+## 📌 TL;DR for Recruiters
 
-specialization:
-  - Full-Stack Product Engineering
-  - Generative AI & LLM Integration
-  - Conversational AI Agents
-  - REST APIs & Microservices
-  - Authentication & RBAC
-  - Server-Side Caching
-  - Cloud & Scalable Architecture
+> AI-native Full-Stack Software Engineer with **2 internships** shipping **production** web apps across **fintech** and **AI healthcare**. I integrate LLM APIs (Gemini) and conversational AI agents (Vapi) into real systems — not demos — with measurable results: **99.9% uptime, 35% faster APIs, 1,000+ active users served.**
 
-currently:
-  - Building production-grade web applications
-  - Exploring System Design & Distributed Systems
-  - Deepening Cloud Architecture & AI Engineering
-
-I build AI-native products that combine strong user experiences with production-grade backend engineering, measurable performance, and scalable architecture.
-
-💼 Software Engineer Intern @ Owl AI
-
-💼 Previously SDE Intern @ Bluestock Fintech
-
-🤖 Hands-on with Gemini LLM APIs, Vapi conversational agents, RAG, MCP servers, vector databases, and prompt engineering
-
-⚡ Experienced with React.js, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, and microservices
-
-🏆 1st Place — Webathon, competing against 50+ teams
-
-🏆 Top 10 / 200+ teams — Web Wizard Hackathon
-
-🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence), ABES Institute of Technology
-
-📌 Engineering Impact
-
-<div align="center">
-
-🚀 Production
-
-🤖 AI
-
-⚡ Performance
-
-🏆 Competitive
-
-2 Internships
-
-800+ daily QuickAI prompts
-
-35% API response improvement
-
-1st Place Webathon
-
-99.9% uptime
-
-Gemini + Vapi
-
-<2s QuickAI latency
-
-Top 10 / 200+ teams
-
-1,000+ fintech users
-
-RAG + MCP + Vector DBs
-
-30% throughput improvement
-
-AI-powered hackathon builds
-
-</div>
-
-🧠 AI Engineering
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vapi-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP_Servers-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Databases-22D3EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agent_Eval_Harnesses-059669?style=for-the-badge"/>
-
-</p>
-
-What I build with AI
-
-LLM Applications
-      │
-      ├── Prompt Engineering
-      ├── RAG Pipelines
-      ├── Vector Databases
-      ├── Conversational AI Agents
-      ├── Real-Time Voice AI
-      ├── MCP Servers
-      └── Agent Evaluation
-
-My strongest AI projects focus on shipping AI as part of a complete product, rather than treating an LLM API as an isolated demo.
-
-💻 Tech Stack
-
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="50%">
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
-</p>
-
-Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-</p>
-
-Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-AI / LLM
-
-Gemini Vapi RAG MCP Vector DBs Prompt Engineering
-
-</td>
-
-<td valign="top" width="50%">
-
-Databases & ORM
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-Prisma Neon Cloudinary
-
-Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render" />
-</p>
-
-Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
-REST APIs Microservices WebRTC Socket.IO JWT RBAC
-
-</td>
+<td align="center"><b>🚀 Production</b><br/>2 Internships<br/>99.9% Uptime<br/>1,000+ Fintech Users</td>
+<td align="center"><b>🤖 AI Engineering</b><br/>800+ Daily QuickAI Prompts<br/>Gemini + Vapi<br/>RAG · MCP · Vector DBs</td>
+<td align="center"><b>⚡ Performance</b><br/>35% API Latency ↓<br/>&lt;2s QuickAI Response<br/>30% Throughput ↑</td>
+<td align="center"><b>🏆 Competitive</b><br/>🥇 1st — Webathon (50+ teams)<br/>🔥 Top 10 — Web Wizard (200+ teams)</td>
 </tr>
 </table>
 
-🏢 Professional Experience
+---
 
-🟦 Software Engineer Intern — Owl AI
+## 👋 About Me
 
-Feb 2026 – Apr 2026
+```yaml
+name: Ayush Kumar Maurya
+role: AI-Native Full-Stack Software Engineer
+education: B.Tech — Computer Science & Engineering (Artificial Intelligence), AKTU
+location: Ghaziabad, Uttar Pradesh, India
 
-React.js Next.js Node.js MongoDB JWT Microservices
+currently:
+  - Shipping full-stack + AI features in production (fintech, healthcare)
+  - Deepening System Design & Distributed Systems
+  - Exploring cloud-native, scalable architecture
 
-Architected distributed microservices using React.js, Next.js, Node.js, and MongoDB.
+i_build:
+  - Production-grade SaaS platforms with real auth, billing & caching
+  - Conversational AI agents (voice + chat) wired into real workflows
+  - RAG pipelines & MCP-integrated tools, not isolated LLM demos
+```
 
-Improved system throughput by 30% through architecture and backend optimization.
+I build **AI-native products** — real user experiences backed by production-grade engineering, measurable performance, and architecture that scales. My focus is shipping AI *as part of* a complete product (auth, billing, caching, persistence), not as a bolted-on demo.
 
-Developed REST APIs and backend microservices with JWT authentication.
+---
 
-Implemented server-side caching and production reliability practices, maintaining consistent service availability.
+## 🏢 Professional Experience
 
-🟩 Software Development Engineer Intern — Bluestock Fintech
+### 🟦 Software Engineer Intern — Owl AI
+**Feb 2026 – Apr 2026** &nbsp;·&nbsp; `React.js` `Next.js` `Node.js` `MongoDB` `JWT` `Microservices`
 
-Nov 2025 – Jan 2026
+- Architected distributed microservices, improving system **throughput by 30%**
+- Built REST APIs and backend microservices with JWT auth and server-side caching, keeping downtime **near-zero across production services**
 
-React.js Next.js Node.js Express.js MongoDB Fintech
+### 🟩 Software Development Engineer Intern — Bluestock Fintech
+**Nov 2025 – Jan 2026** &nbsp;·&nbsp; `React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `Fintech`
 
-Developed and deployed production-grade fintech features across the full stack.
+- Shipped production-grade fintech features, cutting **API latency by 35%** for **1,000+ active users**
+- Worked full Agile cycles — sprint planning, standups, code reviews — alongside senior engineers
+- Applied compliance-aware practices for secure financial data handling
 
-Reduced API latency by 35% while improving reliability for 1,000+ active users.
+---
 
-Worked in Agile engineering cycles including sprint planning, daily standups, and code reviews.
+## 🚀 Featured Projects
 
-Applied compliance-aware development practices for secure financial data handling and API integrations.
+### 🏥 AI-Based Healthcare Consultation System
+`TypeScript` `Next.js` `React.js` `Prisma ORM` `Neon` `Vapi` `Zod` `Clerk` `Shadcn UI` &nbsp;|&nbsp; Feb – Mar 2026
 
-🚀 Featured Projects
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-DentWise-0A66C2?style=for-the-badge)](#) [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](#)
 
-🤖 QuickAI — AI-Powered Content & Image Generation Platform
+A HIPAA-compliant AI healthcare platform with real-time voice consultation agents.
 
-React.js · Express.js · Gemini LLM API · PostgreSQL · Redis · Cloudinary · Clerk · Stripe · Shadcn UI
+- 🏗️ Architected with Next.js SSR + TypeScript, boosting page load speed by **40%**
+- 📈 Increased patient engagement by **75%**
+- 🔐 Clerk auth with RBAC + Zod validation, cutting unauthorized access attempts by **60%**
+- 🎙️ Real-time conversational voice AI agent (Vapi + WebSockets) for automated consultations & scheduling
 
-<a href="https://quick-ai-g.vercel.app/">
-<img src="https://img.shields.io/badge/🔴_LIVE_DEMO-QuickAI-0A66C2?style=for-the-badge"/>
-</a>
+### 🤖 QuickAI — AI-Powered Content & Image Generation Platform
+`React.js` `Express.js` `Gemini LLM API` `PostgreSQL` `Redis` `Cloudinary` `Clerk` `Stripe` &nbsp;|&nbsp; Nov – Dec 2025
 
-A full-stack generative AI SaaS platform built to deliver AI-powered content and image generation with authentication, subscriptions, cloud media storage, caching, and scalable backend services.
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-QuickAI-0A66C2?style=for-the-badge)](https://quick-ai-g.vercel.app/) [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](#)
 
-⚡ Engineering Highlights
+Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, caching, and a scalable backend.
 
-🤖 Processed 800+ daily user prompts through Gemini-powered generation workflows.
+- 🤖 Processes **800+ daily prompts** through Gemini-powered generation workflows
+- ⚡ Redis caching + prompt-engineering optimizations cut API response times by **35%**, hitting **sub-2s latency**
+- 🟢 **99.9% uptime**; 💳 Stripe billing webhooks; 🔐 Clerk auth; ☁️ Cloudinary media pipeline
 
-🏗️ Designed a microservices-oriented architecture for horizontal scalability.
+<details>
+<summary><b>Architecture diagram</b></summary>
 
-⚡ Used Redis server-side caching and prompt-engineering optimizations to reduce API response times by 35%.
-
-🚀 Achieved sub-2-second latency in optimized AI workflows.
-
-🟢 Maintained 99.9% uptime.
-
-💳 Integrated Stripe billing webhooks for subscription-aware access.
-
-🔐 Implemented Clerk authentication pipelines for secure user access.
-
-☁️ Integrated Cloudinary for generated media management.
-
-Architecture
-
+```
                         ┌─────────────────────┐
                         │       React UI       │
                         │     Shadcn UI        │
@@ -248,11 +110,10 @@ Architecture
                                    │
                                    ▼
                         ┌─────────────────────┐
-                        │   Express REST API  │
+                        │   Express REST API   │
                         └──────────┬──────────┘
                                    │
                   ┌────────────────┼────────────────┐
-                  │                │                │
                   ▼                ▼                ▼
              ┌─────────┐      ┌─────────┐     ┌──────────┐
              │  Redis  │      │ Gemini  │     │  Clerk   │
@@ -270,72 +131,79 @@ Architecture
                     │ Cloudinary│     │  Stripe  │
                     │   Media   │     │ Billing  │
                     └───────────┘     └──────────┘
+```
+</details>
 
-Why it matters: QuickAI demonstrates the ability to take an LLM integration beyond a prototype and turn it into a complete SaaS product with performance, authentication, billing, persistence, and cloud infrastructure.
+### 🎥 Zoom Clone — Real-Time Video Conferencing
+`React.js` `Node.js` `Express.js` `MongoDB` `WebRTC` `Socket.IO` &nbsp;|&nbsp; Oct – Nov 2025
 
-🏥 AI-Based Healthcare Consultation System
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-ZoomClone-0A66C2?style=for-the-badge)](#) [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](#)
 
-TypeScript · Next.js · React.js · Prisma ORM · Neon · Vapi · Zod · Shadcn UI · Clerk
+- 📡 Scalable WebRTC + Socket.IO video platform with token-based session verification
+- ⚡ Reduced connection latency by **30%**
+- 🔄 Fault-tolerant signaling for participant reconnects and room-state sync at scale
 
-A real-time AI healthcare platform combining voice AI agents, secure authentication, RBAC, validation, and automated appointment workflows.
+---
 
-🏥 Architected a HIPAA-compliant AI healthcare platform using Next.js SSR and TypeScript.
+## 💻 Tech Stack
 
-⚡ Accelerated page load speeds by 40%.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-📈 Increased patient engagement by 75%.
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=js,ts,python,cpp" /></p>
 
-🔐 Implemented Clerk authentication with RBAC and Zod validation.
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" /></p>
 
-🛡️ Reduced unauthorized access attempts by 60%.
+**Backend & APIs**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 
-🎙️ Built a real-time conversational voice AI agent using Vapi + WebSockets.
+**AI / LLM Integration**
+Gemini LLM API · Vapi · RAG · MCP Servers · Vector DBs (Pinecone / pgvector) · Prompt Engineering · Agent Eval Harnesses
 
-📅 Enabled automated clinical consultations and appointment scheduling.
+</td>
+<td valign="top" width="50%">
 
-🎥 Zoom Clone — Real-Time Video Conferencing
+**Databases & ORM**
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgresql" /></p>
+Prisma ORM · Neon (Serverless Postgres) · Cloudinary
 
-React.js · Node.js · Express.js · MongoDB · WebRTC · Socket.IO
+**Cloud & DevOps**
+<p><img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,git,github" /></p>
 
-A real-time video conferencing platform focused on reliable WebRTC communication, secure rooms, signaling, and participant synchronization.
+**Architecture & Tooling**
+REST APIs · Microservices · WebRTC · Socket.IO · JWT · RBAC · Postman
 
-📡 Built scalable WebRTC + Socket.IO communication workflows.
+</td>
+</tr>
+</table>
 
-🔐 Implemented token-based session verification across room endpoints.
+---
 
-⚡ Reduced connection latency by 30%.
-
-🔄 Designed fault-tolerant signaling for participant reconnects and room-state synchronization.
-
-👥 Engineered reliable multi-participant real-time sessions.
-
-🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-🥇 1st Place — Webathon
-
-MERN E-Commerce + AI Chatbot
-
-Built an e-commerce platform with an integrated AI chatbot agent, outperforming 50+ competing teams.
-
-<br>
-
-🔥 Top 10 — Web Wizard Hackathon
-
-200+ Teams
-
-Built QuizLab, an AI pipeline for transcription, content summarization, and automated quiz generation.
+| | |
+|---|---|
+| 🥇 **1st Place — Webathon** | MERN e-commerce platform + integrated AI chatbot agent, outperforming **50+ teams** |
+| 🔥 **Top 10 / 200+ teams — Web Wizard Hackathon** | Built **QuizLab** — an AI pipeline for transcription, summarization & automated quiz generation |
+| 🧩 **15+ Algorithmic Solutions** | Reusable components that accelerated later development cycles |
 
 </div>
 
-🎓 Education
+---
 
-B.Tech — Computer Science & Engineering (Artificial Intelligence)
-ABES Institute of Technology, Ghaziabad (AKTU)
-Nov 2022 – Jul 2026 · SGPA: 7.58 / 10
+## 🎓 Education
 
-📊 GitHub Analytics
+**B.Tech — Computer Science & Engineering (Artificial Intelligence)**
+ABES Institute of Technology, Ghaziabad (AKTU) &nbsp;|&nbsp; Nov 2022 – Jul 2026 &nbsp;|&nbsp; SGPA: 7.58 / 10
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush757109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
@@ -350,39 +218,23 @@ Nov 2022 – Jul 2026 · SGPA: 7.58 / 10
 <img src="https://github-profile-trophy.vercel.app/?username=Ayush757109&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush757109&theme=tokyonight"/>
-</p>
+---
 
-🎯 Current Focus
+## 🎯 2026 Goals
 
-System Design          ███████████████░░░
-Distributed Systems    █████████████░░░░░
-Cloud Architecture     ████████████░░░░░░
-AI Engineering         ███████████████░░░
-Full-Stack Engineering █████████████████░
+- [ ] Deepen System Design & Distributed Systems
+- [ ] Ship another scalable AI-native product end-to-end
+- [ ] Contribute to open-source projects
+- [ ] Expand cloud architecture expertise (AWS-focused)
+- [ ] Land a full-time SDE / AI Engineer role
 
-2026 Goals
-
-Deepen System Design & Distributed Systems
-
-Build scalable AI-native products
-
-Contribute to open-source projects
-
-Expand cloud architecture expertise
-
-Continue solving algorithmic problems
-
-Grow into a high-impact product engineer
-
-📬 Let's Build
+---
 
 <div align="center">
 
-Interested in AI applications, full-stack engineering, or building scalable products? Let's connect.
+### 📬 Let's Build Something
 
-<br>
+Open to **Full-Stack**, **AI/LLM Engineering**, and **Product Engineering** roles.
 
 <a href="https://linkedin.com/in/ayush2112"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ayushmaurya2112@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -390,7 +242,7 @@ Interested in AI applications, full-stack engineering, or building scalable prod
 
 <br><br>
 
-"Code. Learn. Build. Scale."
+*"Code. Learn. Build. Scale."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0A66C2&height=110&section=footer" width="100%"/>
 
