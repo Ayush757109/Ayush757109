@@ -147,38 +147,80 @@ Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, cac
 
 ## 💻 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=js,ts,python,cpp" /></p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" /></p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
 **Backend & APIs**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
 
 **AI / LLM Integration**
-Gemini LLM API · Vapi · RAG · MCP Servers · Vector DBs (Pinecone / pgvector) · Prompt Engineering · Agent Eval Harnesses
-
-</td>
-<td valign="top" width="50%">
+<p>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vapi-111827?style=for-the-badge&logo=voip&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP_Servers-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_DBs_(Pinecone/pgvector)-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agent_Eval_Harnesses-059669?style=for-the-badge"/>
+</p>
 
 **Databases & ORM**
-<p><img src="https://skillicons.dev/icons?i=mongodb,postgresql" /></p>
-Prisma ORM · Neon (Serverless Postgres) · Cloudinary
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
+
+**Auth, Billing & Validation**
+<p>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/RBAC-4B5563?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+</p>
 
 **Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,git,github" /></p>
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-**Architecture & Tooling**
-REST APIs · Microservices · WebRTC · Socket.IO · JWT · RBAC · Postman
-
-</td>
-</tr>
-</table>
+**Developer Tools**
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
