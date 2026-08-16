@@ -260,6 +260,18 @@ ABES Institute of Technology, Ghaziabad (AKTU) &nbsp;|&nbsp; Nov 2022 – Jul 20
 <img src="https://github-profile-trophy.vercel.app/?username=Ayush757109&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
 </p>
 
+**Contribution Graph**
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush757109&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+**Contribution Snake**
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Ayush757109/Ayush757109/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+> ℹ️ The snake graph needs a one-time GitHub Actions setup in your profile repo ([Platane/snk](https://github.com/Platane/snk)) to generate that SVG on a schedule — happy to write that workflow file too if you want it wired up.
+
 ---
 
 ## 🎯 2026 Goals
