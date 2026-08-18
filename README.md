@@ -19,9 +19,9 @@
 
 <br>
 
-## 📌 TL;DR for Recruiters
+📌 TL;DR for Recruiters
 
-> AI-native Full-Stack Software Engineer with **2 internships** shipping **production** web apps across **fintech** and **AI healthcare**. I integrate LLM APIs (Gemini) and conversational AI agents (Vapi) into real systems — not demos — with measurable results: **99.9% uptime, 35% faster APIs, 1,000+ active users served.**
+AI-native Full-Stack Software Engineer with 2 internships shipping production web apps across fintech and AI healthcare. I integrate LLM APIs (Gemini) and conversational AI agents (Vapi) into real systems — not demos — with measurable results: 99.9% uptime, 35% faster APIs, 1,000+ active users served.
 
 <table align="center">
 <tr>
@@ -32,11 +32,8 @@
 </tr>
 </table>
 
----
+👋 About Me
 
-## 👋 About Me
-
-```yaml
 name: Ayush Kumar Maurya
 role: AI-Native Full-Stack Software Engineer
 education: B.Tech — Computer Science & Engineering (Artificial Intelligence), AKTU
@@ -51,58 +48,64 @@ i_build:
   - Production-grade SaaS platforms with real auth, billing & caching
   - Conversational AI agents (voice + chat) wired into real workflows
   - RAG pipelines & MCP-integrated tools, not isolated LLM demos
-```
 
-I build **AI-native products** — real user experiences backed by production-grade engineering, measurable performance, and architecture that scales. My focus is shipping AI *as part of* a complete product (auth, billing, caching, persistence), not as a bolted-on demo.
+I build AI-native products — real user experiences backed by production-grade engineering, measurable performance, and architecture that scales. My focus is shipping AI as part of a complete product (auth, billing, caching, persistence), not as a bolted-on demo.
 
----
+🏢 Professional Experience
 
-## 🏢 Professional Experience
+🟦 Software Engineer Intern — Owl AI
 
-### 🟦 Software Engineer Intern — Owl AI
-**Feb 2026 – Apr 2026** &nbsp;·&nbsp; `React.js` `Next.js` `Node.js` `MongoDB` `JWT` `Microservices`
+Feb 2026 – Apr 2026  ·  React.js Next.js Node.js MongoDB JWT Microservices
 
-- Architected distributed microservices, improving system **throughput by 30%**
-- Built REST APIs and backend microservices with JWT auth and server-side caching, keeping downtime **near-zero across production services**
+Architected distributed microservices, improving system throughput by 30%
 
-### 🟩 Software Development Engineer Intern — Bluestock Fintech
-**Nov 2025 – Jan 2026** &nbsp;·&nbsp; `React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `Fintech`
+Built REST APIs and backend microservices with JWT auth and server-side caching, keeping downtime near-zero across production services
 
-- Shipped production-grade fintech features, cutting **API latency by 35%** for **1,000+ active users**
-- Worked full Agile cycles — sprint planning, standups, code reviews — alongside senior engineers
-- Applied compliance-aware practices for secure financial data handling
+🟩 Software Development Engineer Intern — Bluestock Fintech
 
----
+Nov 2025 – Jan 2026  ·  React.js Next.js Node.js Express.js MongoDB Fintech
 
-## 🚀 Featured Projects
+Shipped production-grade fintech features, cutting API latency by 35% for 1,000+ active users
 
-### 🏥 AI-Based Healthcare Consultation System
-`TypeScript` `Next.js` `React.js` `Prisma ORM` `Neon` `Vapi` `Zod` `Clerk` `Shadcn UI` &nbsp;|&nbsp; Feb – Mar 2026
+Worked full Agile cycles — sprint planning, standups, code reviews — alongside senior engineers
 
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-DentWise-0A66C2?style=for-the-badge)](#) [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](#)
+Applied compliance-aware practices for secure financial data handling
+
+🚀 Featured Projects
+
+🏥 AI-Based Healthcare Consultation System
+
+TypeScript Next.js React.js Prisma ORM Neon Vapi Zod Clerk Shadcn UI  |  Feb – Mar 2026
+
+ 
 
 A HIPAA-compliant AI healthcare platform with real-time voice consultation agents.
 
-- 🏗️ Architected with Next.js SSR + TypeScript, boosting page load speed by **40%**
-- 📈 Increased patient engagement by **75%**
-- 🔐 Clerk auth with RBAC + Zod validation, cutting unauthorized access attempts by **60%**
-- 🎙️ Real-time conversational voice AI agent (Vapi + WebSockets) for automated consultations & scheduling
+🏗️ Architected with Next.js SSR + TypeScript, boosting page load speed by 40%
 
-### 🤖 QuickAI — AI-Powered Content & Image Generation Platform
-`React.js` `Express.js` `Gemini LLM API` `PostgreSQL` `Redis` `Cloudinary` `Clerk` `Stripe` &nbsp;|&nbsp; Nov – Dec 2025
+📈 Increased patient engagement by 75%
 
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-QuickAI-0A66C2?style=for-the-badge)](https://quick-ai-g.vercel.app/) [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](#)
+🔐 Clerk auth with RBAC + Zod validation, cutting unauthorized access attempts by 60%
+
+🎙️ Real-time conversational voice AI agent (Vapi + WebSockets) for automated consultations & scheduling
+
+🤖 QuickAI — AI-Powered Content & Image Generation Platform
+
+React.js Express.js Gemini LLM API PostgreSQL Redis Cloudinary Clerk Stripe  |  Nov – Dec 2025
+
+ 
 
 Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, caching, and a scalable backend.
 
-- 🤖 Processes **800+ daily prompts** through Gemini-powered generation workflows
-- ⚡ Redis caching + prompt-engineering optimizations cut API response times by **35%**, hitting **sub-2s latency**
-- 🟢 **99.9% uptime**; 💳 Stripe billing webhooks; 🔐 Clerk auth; ☁️ Cloudinary media pipeline
+🤖 Processes 800+ daily prompts through Gemini-powered generation workflows
+
+⚡ Redis caching + prompt-engineering optimizations cut API response times by 35%, hitting sub-2s latency
+
+🟢 99.9% uptime; 💳 Stripe billing webhooks; 🔐 Clerk auth; ☁️ Cloudinary media pipeline
 
 <details>
 <summary><b>Architecture diagram</b></summary>
 
-```
                         ┌─────────────────────┐
                         │       React UI       │
                         │     Shadcn UI        │
@@ -131,23 +134,25 @@ Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, cac
                     │ Cloudinary│     │  Stripe  │
                     │   Media   │     │ Billing  │
                     └───────────┘     └──────────┘
-```
+
 </details>
 
-### 🎥 Zoom Clone — Real-Time Video Conferencing
-`React.js` `Node.js` `Express.js` `MongoDB` `WebRTC` `Socket.IO` &nbsp;|&nbsp; Oct – Nov 2025
+🎥 Zoom Clone — Real-Time Video Conferencing
 
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-ZoomClone-0A66C2?style=for-the-badge)](#) [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](#)
+React.js Node.js Express.js MongoDB WebRTC Socket.IO  |  Oct – Nov 2025
 
-- 📡 Scalable WebRTC + Socket.IO video platform with token-based session verification
-- ⚡ Reduced connection latency by **30%**
-- 🔄 Fault-tolerant signaling for participant reconnects and room-state sync at scale
+ 
 
----
+📡 Scalable WebRTC + Socket.IO video platform with token-based session verification
 
-## 💻 Tech Stack
+⚡ Reduced connection latency by 30%
 
-**Languages**
+🔄 Fault-tolerant signaling for participant reconnects and room-state sync at scale
+
+💻 Tech Stack
+
+Languages
+
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -155,7 +160,8 @@ Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, cac
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-**Frontend**
+Frontend
+
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -166,7 +172,8 @@ Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, cac
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-**Backend & APIs**
+Backend & APIs
+
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -176,7 +183,8 @@ Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, cac
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
-**AI / LLM Integration**
+AI / LLM Integration
+
 <p>
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vapi-111827?style=for-the-badge&logo=voip&logoColor=white"/>
@@ -187,7 +195,8 @@ Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, cac
 <img src="https://img.shields.io/badge/Agent_Eval_Harnesses-059669?style=for-the-badge"/>
 </p>
 
-**Databases & ORM**
+Databases & ORM
+
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -197,7 +206,8 @@ Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, cac
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
-**Auth, Billing & Validation**
+Auth, Billing & Validation
+
 <p>
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
@@ -206,7 +216,8 @@ Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, cac
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 </p>
 
-**Cloud & DevOps**
+Cloud & DevOps
+
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -216,79 +227,94 @@ Full-stack generative AI SaaS platform — auth, subscriptions, cloud media, cac
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-**Developer Tools**
+Developer Tools
+
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
-
-## 🏆 Achievements
+🏆 Achievements
 
 <div align="center">
 
-| | |
-|---|---|
-| 🥇 **1st Place — Webathon** | MERN e-commerce platform + integrated AI chatbot agent, outperforming **50+ teams** |
-| 🔥 **Top 10 / 200+ teams — Web Wizard Hackathon** | Built **QuizLab** — an AI pipeline for transcription, summarization & automated quiz generation |
-| 🧩 **15+ Algorithmic Solutions** | Reusable components that accelerated later development cycles |
+
+
+
+
+🥇 1st Place — Webathon
+
+MERN e-commerce platform + integrated AI chatbot agent, outperforming 50+ teams
+
+🔥 Top 10 / 200+ teams — Web Wizard Hackathon
+
+Built QuizLab — an AI pipeline for transcription, summarization & automated quiz generation
+
+🧩 15+ Algorithmic Solutions
+
+Reusable components that accelerated later development cycles
 
 </div>
 
----
+🎓 Education
 
-## 🎓 Education
+B.Tech — Computer Science & Engineering (Artificial Intelligence)
+ABES Institute of Technology, Ghaziabad (AKTU)  |  Nov 2022 – Jul 2026  |  SGPA: 7.58 / 10
 
-**B.Tech — Computer Science & Engineering (Artificial Intelligence)**
-ABES Institute of Technology, Ghaziabad (AKTU) &nbsp;|&nbsp; Nov 2022 – Jul 2026 &nbsp;|&nbsp; SGPA: 7.58 / 10
+📊 GitHub Analytics
 
----
-
-## 📊 GitHub Analytics
+Reliable analytics setup: the old github-readme-stats.vercel.app and streak-stats.demolab.com endpoints can fail because they depend on shared public deployments and GitHub API limits. This section uses the GitHub Profile Summary Cards service instead.
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush757109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush757109&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush757109&theme=tokyonight" alt="GitHub profile details"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ayush757109&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush757109&theme=tokyonight" alt="GitHub statistics"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush757109&theme=tokyonight" alt="Top repository languages"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush757109&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush757109&theme=tokyonight" alt="Most committed languages"/>
 </p>
 
-**Contribution Graph**
+Contribution Graph
+
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush757109&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush757109&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 </p>
 
-**Contribution Snake**
+GitHub Trophies
+
 <p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Ayush757109/Ayush757109/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush757109&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub profile trophies"/>
 </p>
 
-> ℹ️ The snake graph needs a one-time GitHub Actions setup in your profile repo ([Platane/snk](https://github.com/Platane/snk)) to generate that SVG on a schedule — happy to write that workflow file too if you want it wired up.
+Contribution Snake
 
----
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Ayush757109/Ayush757109/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+</p>
 
-## 🎯 2026 Goals
+ℹ️ The snake graph is generated by GitHub Actions. If the SVG is missing, run the snake workflow in this profile repository once to create the output/github-contribution-grid-snake-dark.svg file.
 
-- [ ] Deepen System Design & Distributed Systems
-- [ ] Ship another scalable AI-native product end-to-end
-- [ ] Contribute to open-source projects
-- [ ] Expand cloud architecture expertise (AWS-focused)
-- [ ] Land a full-time SDE / AI Engineer role
+🎯 2026 Goals
 
----
+Deepen System Design & Distributed Systems
+
+Ship another scalable AI-native product end-to-end
+
+Contribute to open-source projects
+
+Expand cloud architecture expertise (AWS-focused)
+
+Land a full-time SDE / AI Engineer role
 
 <div align="center">
 
-### 📬 Let's Build Something
+📬 Let's Build Something
 
-Open to **Full-Stack**, **AI/LLM Engineering**, and **Product Engineering** roles.
+Open to Full-Stack, AI/LLM Engineering, and Product Engineering roles.
 
 <a href="https://linkedin.com/in/ayush2112"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ayushmaurya2112@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -296,7 +322,7 @@ Open to **Full-Stack**, **AI/LLM Engineering**, and **Product Engineering** role
 
 <br><br>
 
-*"Code. Learn. Build. Scale."*
+"Code. Learn. Build. Scale."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0A66C2&height=110&section=footer" width="100%"/>
 
