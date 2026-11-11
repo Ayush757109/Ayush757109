@@ -1,71 +1,87 @@
-::: {align="center"}
+
 # Ayush Kumar Maurya
 
-### Full-Stack Software Engineer \| Backend Engineering \| AI-Powered Products
+### Full-Stack Software Engineer · Backend Engineering · AI-Powered Products
 
 Building reliable web applications and practical AI-powered products
 with measurable impact.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ayush757109-181717?style=for-the-badge&logo=github)](https://github.com/Ayush757109)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush2112)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmaurya2112@gmail.com)
+```{=html}
+<p>
+```
+`<a href="https://github.com/Ayush757109">`{=html}`<img src="https://img.shields.io/badge/GitHub-Ayush757109-181717?style=for-the-badge&logo=github" alt="GitHub">`{=html}`</a>`{=html}
+`<a href="https://linkedin.com/in/ayush2112">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">`{=html}`</a>`{=html}
+`<a href="mailto:ayushmaurya2112@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+`<img src="https://komarev.com/ghpvc/?username=Ayush757109&style=flat-square&color=blue" alt="Profile views">`{=html}
 :::
 
 ------------------------------------------------------------------------
 
-## Profile at a glance
+## About me
 
-Full-Stack Software Engineer and Computer Science (Artificial
+I'm a Full-Stack Software Engineer and Computer Science (Artificial
 Intelligence) graduate with internship experience building and
 supporting production applications in **fintech** and **AI healthcare**.
 I work across frontend, backend, APIs, databases, and AI integrations,
 with a focus on performance, reliability, and maintainable software.
 
+-   Building full-stack applications with **React, Next.js, Node.js, and
+    TypeScript**
+-   Interested in **backend systems, distributed services, and
+    AI-powered products**
+-   Solved **300+ DSA problems** across LeetCode and GeeksforGeeks
+-   Value clean code, thoughtful system design, testing, and continuous
+    learning
+
+## Impact at a glance
+
+::: {align="center"}
   -----------------------------------------------------------------------
        **30%**           **35%**          **99.9%**        **1,000+**
   ----------------- ----------------- ----------------- -----------------
-   Higher platform  Lower API latency Production uptime  Active fintech
-     throughput                                          users supported
+   Higher platform  Lower API latency Production uptime   Fintech users
+     throughput                                             supported
 
   -----------------------------------------------------------------------
+:::
 
-## Technical skills
+## Tech stack
 
-**Languages**\
-JavaScript (ES6+), TypeScript, Python, C++
+::: {align="center"}
+**Languages**
 
-**Frontend**\
-React.js, Next.js (SSR/SSG), Redux, Zustand, Tailwind CSS, Shadcn UI,
-Bootstrap
+`<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" alt="JavaScript, TypeScript, Python, C++">`{=html}
 
-**Backend and APIs**\
-Node.js, Express.js, REST APIs, Microservices Architecture, WebRTC,
-Socket.IO
+**Frontend**
 
-**Databases and messaging**\
-MongoDB, PostgreSQL, Redis, Apache Kafka, Prisma ORM, Neon
+`<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="React, Next.js, Redux, Tailwind CSS">`{=html}
 
-**AI and integrations**\
-Gemini LLM API, Vapi conversational AI, Prompt Engineering,
-Retrieval-Augmented Generation (RAG)
+**Backend, databases & infrastructure**
 
-**Cloud and developer tools**\
-AWS, Vercel, Netlify, Render, Docker, Git, GitHub, CI/CD
+`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,kafka,prisma,docker,aws" alt="Node.js, Express, MongoDB, PostgreSQL, Redis, Kafka, Prisma, Docker, AWS">`{=html}
 
-**Computer science**\
-Data Structures and Algorithms, Object-Oriented Programming, System
-Design, Agile/Scrum, Debugging, Testing
+**Tools & platforms**
 
-## Professional experience
+`<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" alt="Git, GitHub, Vercel, Netlify">`{=html}
+:::
 
-### Software Engineer Intern --- Owl AI
+Also experienced with: REST APIs, microservices, WebRTC, Socket.IO,
+Neon, Gemini LLM API, Vapi, Clerk, Zod, Shadcn UI, CI/CD, Agile/Scrum,
+debugging, and testing.
+
+## Experience
+
+### Software Engineer Intern · Owl AI
 
 **February 2026 -- July 2026**
 
 -   Developed and shipped full-stack web services using React.js,
     Next.js, Node.js, and MongoDB.
--   Implemented a distributed microservices architecture that improved
-    platform throughput by **30%**.
+-   Implemented distributed microservices that improved platform
+    throughput by **30%**.
 -   Built and debugged REST APIs and backend services with JWT
     authentication and server-side caching.
 -   Investigated performance bottlenecks and helped maintain **99.9%
@@ -73,7 +89,7 @@ Design, Agile/Scrum, Debugging, Testing
 -   Collaborated with senior engineers through daily stand-ups and code
     reviews.
 
-### Software Development Engineer Intern --- Bluestock Fintech
+### Software Development Engineer Intern · Bluestock Fintech
 
 **April 2025 -- January 2026**
 
@@ -87,12 +103,12 @@ Design, Agile/Scrum, Debugging, Testing
     an Agile team.
 -   Applied security-conscious, compliance-aware development practices.
 
-## Selected projects
+## Featured projects
 
 ### AI-Based Healthcare Consultation System
 
-**TypeScript · Next.js · React.js · Prisma ORM · Neon · Vapi · Zod ·
-Clerk · Shadcn UI**
+`TypeScript` `Next.js` `React` `Prisma` `Neon` `Vapi` `Zod` `Clerk`
+`Shadcn UI`
 
 -   Architected an AI healthcare consultation platform using Next.js SSR
     and TypeScript.
@@ -103,10 +119,10 @@ Clerk · Shadcn UI**
 -   Reduced unauthorized access attempts by **60%** while protecting
     doctor--patient interactions.
 
-### QuickAI --- AI-Powered Content and Image Generation Platform
+### QuickAI · AI-Powered Content and Image Generation
 
-**React.js · Express.js · Gemini LLM API · PostgreSQL · Cloudinary ·
-Shadcn UI · Clerk**
+`React` `Express` `Gemini LLM API` `PostgreSQL` `Cloudinary` `Shadcn UI`
+`Clerk`
 
 -   Built a full-stack generative AI platform handling **800+ user
     prompts per day**.
@@ -116,10 +132,10 @@ Shadcn UI · Clerk**
     response times by **35%**.
 -   Achieved sub-two-second response latency and **99.9% uptime**.
 
-### ReachInbox.ai --- Email Scheduler Service and Dashboard
+### ReachInbox.ai · Email Scheduler
 
-**React.js · TypeScript · Node.js · Express.js · Redis · BullMQ ·
-PostgreSQL · Prisma · Docker**
+`React` `TypeScript` `Node.js` `Express` `Redis` `BullMQ` `PostgreSQL`
+`Prisma` `Docker`
 
 -   Built an email scheduling service supporting immediate, delayed, and
     recurring delivery.
@@ -131,31 +147,44 @@ PostgreSQL · Prisma · Docker**
 
 ## Achievements
 
--   **1st Place --- Webathon:** Built a MERN-stack e-commerce platform
+-   **1st Place -- Webathon:** Built a MERN-stack e-commerce platform
     with an integrated AI chatbot, competing against 50+ teams.
--   **Top 10 --- Web Wizard Hackathon:** Ranked among 200+ teams with
+-   **Top 10 -- Web Wizard Hackathon:** Ranked among 200+ teams with
     QuizLab, an AI pipeline for transcription, summarization, and
     automated quiz generation.
--   **300+ DSA problems:** Solved problems across LeetCode and
-    GeeksforGeeks.
+-   **300+ DSA problems:** Solved across LeetCode and GeeksforGeeks.
+
+## GitHub activity
+
+::: {align="center"}
+```{=html}
+<!-- GitHub's native contribution calendar is shown on your profile page. This activity graph is an additional visual summary. -->
+```
+`<a href="https://github.com/Ayush757109">`{=html}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush757109&theme=tokyo-night&hide_border=true&area=true" alt="Ayush's GitHub contribution activity graph">`{=html}
+`</a>`{=html}
+
+`<br>`{=html}
+
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayush757109&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats">`{=html}
+`<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush757109&theme=tokyonight&hide_border=true" alt="GitHub streak">`{=html}
+
+`<br>`{=html}
+
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush757109&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">`{=html}
+:::
+
+> The activity graph and stats are generated from GitHub activity and
+> may take time to refresh. GitHub's own contribution calendar is
+> available on the profile page.
 
 ## Education
 
-**B.Tech --- Computer Science & Engineering (Artificial Intelligence)**\
+**B.Tech -- Computer Science & Engineering (Artificial Intelligence)**\
 ABES Institute of Technology, Ghaziabad (AKTU)\
 November 2022 -- November 2026 · **SGPA: 7.58 / 10**
 
-## GitHub
-
-I use GitHub to build projects, practice engineering fundamentals,
-document implementation decisions, and improve software through testing
-and iteration.
-
-[Explore my
-repositories](https://github.com/Ayush757109?tab=repositories) · [View
-my profile](https://github.com/Ayush757109)
-
-## Contact
+## Let's connect
 
 I'm interested in opportunities in **Full-Stack Software Engineering,
 Backend Engineering, and AI-powered product development**.
@@ -165,8 +194,6 @@ Backend Engineering, and AI-powered product development**.
     [linkedin.com/in/ayush2112](https://linkedin.com/in/ayush2112)
 -   **GitHub:** [github.com/Ayush757109](https://github.com/Ayush757109)
 
-------------------------------------------------------------------------
-
 ::: {align="center"}
 *Build thoughtfully. Measure impact. Keep learning.*
-:::
+
