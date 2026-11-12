@@ -170,33 +170,6 @@ November 2022 – November 2026
 
 ---
 
-## 📈 GitHub Contributions & Activity
-
-### Contribution Graph
-
-[![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush757109&theme=github-compact&hide_border=true&area=true)](https://github.com/Ayush757109)
-
-### GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush757109&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush757109&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Ayush757109&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Statistics"/>
-
-</div>
-
-### Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ayush757109/Ayush757109/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
